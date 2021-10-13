@@ -35,3 +35,7 @@ models:
     label: advanced
     layout: advanced
     description: embedded content
+    folder: /docs
+    fields:
+      - name: ''
+        type: string
