@@ -39,3 +39,4 @@ models:
     fields:
       - name: html
         type: html
+        label: html
