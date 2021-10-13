@@ -40,3 +40,4 @@ models:
       - name: html
         type: html
         label: html
+        description: embed
