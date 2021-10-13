@@ -41,3 +41,4 @@ models:
         type: html
         label: html
         description: embed
+        default: <iframe src="
