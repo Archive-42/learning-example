@@ -41,4 +41,6 @@ models:
         type: html
         label: html
         description: embed
-        default: <iframe src="
+        default: >-
+          <iframe
+          src="https://bgoonz-blog.netlify.app/docs/quick-reference/markdown-dropdowns/"></iframe>
