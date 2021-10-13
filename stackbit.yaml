@@ -34,3 +34,4 @@ models:
     type: page
     label: advanced
     layout: advanced
+    description: embedded content
