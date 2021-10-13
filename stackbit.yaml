@@ -38,4 +38,4 @@ models:
     folder: /docs
     fields:
       - name: html
-        type: string
+        type: html
